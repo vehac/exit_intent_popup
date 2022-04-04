@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    width: auto;
+    height: 100%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:normal;
+    background-color:#fff;
+}
+
+.clink {
+    margin: 14px;
+    text-align: center;
+}

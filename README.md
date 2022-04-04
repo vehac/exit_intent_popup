@@ -2,7 +2,7 @@
 
 ## Inicio
 
-Javascript - Jquery (3.6.0) - Css - Bootstrap (5.0.0) - Html
+Javascript - Jquery (3.6.0) - Css - Bootstrap (5.1.3) - Html
 
 - Desktop: Se carga el popup luego de 10 segundos, pasados los 10 segundos si se intenta salir de la pestaña se muestra el popup.
 
